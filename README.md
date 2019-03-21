@@ -2,6 +2,8 @@
 
 > 本案例是调用GitHub官方提供的API,基于axios，pubsub-js实现的一个demo，目的让自己更加熟悉vue组件化开发思想
 
+**本文最初发表在博客园，喜欢看博客的同学也可以前往**---<a href="https://www.cnblogs.com/dreamcc/p/10570273.html">找到我</a>
+
 ## Build Setup
 
 ``` bash
